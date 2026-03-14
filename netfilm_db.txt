@@ -1,0 +1,7 @@
+bsd;20000;2025;4.5
+Frieren;35000;2026;4.9
+Detective Conan;50000;1996;4.7
+Bungo Stray Dogs;45000;2016;4.0
+Hunter x Hunter;70000;2011;4.6
+Gintama;65000;2015;4.6
+One Piece;70000;1999;4.8
